@@ -1,5 +1,5 @@
 <h1>Youtube Sentiment Analysis</h1>
-This Natural Language Processing project allows us to get a comparison between the positive and negative comments of any YouTube video using YouTube Data API v3.
+This Natural Language Processing project allows us to get a comparison between the positive and negative comments of any YouTube video using YouTube Data API v3. Logistic Regression Classifier is trained on the polarity dataset v2.0 (Introduced in PangLee ACL 2004).
 <h3>Technologies used</h3>
 <ul>
   <li>Python- 3.11.3</li>
